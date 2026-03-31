@@ -8,13 +8,13 @@ this repo is based on the original repo (https://github.com/ProjectAsakura/Baysh
 ## What is working
  - Same like 6
  - VSORG [Expedition] (some of them maybe... expedition saving works)
- - Highway [New Mode] (some of them maybe... highway saving works)
  - Ghost Trophies Saving
+ - Online Championship Match
  
  ## What is not working 
  - Transfer from 6
  - Wanted Info for each area (game will crash... idk why)
-
+ - Highway Conquers (will implemented it soon)
 ## Credits
 This software is part of [Project Asakura](https://github.com/ProjectAsakura).
 
