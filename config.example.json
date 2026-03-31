@@ -13,6 +13,7 @@
         "scratchEnabled": 1, 
         "scratchType": 0, 
         "giveMeterReward": 0,
-        "newCardsBanned": 0
+        "newCardsBanned": 0,
+        "revisionCheck": 0
     }
 }
