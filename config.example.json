@@ -6,9 +6,10 @@
     "country": "JPN",
     "regionName": "JPN0123",
     "serverIp": "127.0.0.1",
+    "notices": ["Notices 1","notices 2", "notices 3"],
     "gameOptions": {
-        "grantFullTuneTicketToNewUsers": 5, 
-        "giftCarsFullyTuned": 0, 
+        "grantFullTuneTicketToNewUsers": 67, 
+        "giftCarsFullyTuned": 1, 
         "scratchEnabled": 1, 
         "scratchType": 0, 
         "giveMeterReward": 0,
